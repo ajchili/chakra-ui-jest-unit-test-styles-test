@@ -24,11 +24,6 @@ export const ShrinkableText = (): JSX.Element => {
         lots of text. lots of text. lots of text. lots of text. lots of text.
         lots of text. lots of text. lots of text. lots of text. lots of text.
         lots of text. lots of text. lots of text. lots of text. lots of text.
-        lots of text. lots of text. lots of text. lots of text. lots of text.
-        lots of text. lots of text. lots of text. lots of text. lots of text.
-        lots of text. lots of text. lots of text. lots of text. lots of text.
-        lots of text. lots of text. lots of text. lots of text. lots of text.
-        lots of text. lots of text. lots of text. lots of text. lots of text.
       </Text>
       {shrunk && <span>shrunk</span>}
     </>
